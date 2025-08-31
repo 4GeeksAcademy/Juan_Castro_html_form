@@ -1,3 +1,13 @@
-.div{
-    
+.form-check1{
+    background-color: gray;
+    border-radius: 2%;
+    display: flex;              /* Hace que los hijos se alineen en fila */
+    gap: 16px;                  /* Espacio entre los iconos */
+    align-items: center;        /* Centra verticalmente los radios e iconos */
+    padding: 10px;
 }
+
+.texto_gris{
+    color: gray;
+    font-size: 14px;
+}|
